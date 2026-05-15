@@ -17,20 +17,22 @@ Responsive Design
 
 Flexbox Navigation Bar
 - Implacably center the navigation links with flexbox.
-Adapt layout and design to being viewed on small screens.Optimize layout and design for small screens.
+- Adapt layout and design to being viewed on small screens.
+- Optimize layout and design for small screens.
 
 Styled Layout
 - Clean card-style sections
-Using turbine blue color code for footer and header.Using turquoise color code for header, footer.
-Dark, contrasty navbar
+- Using turbine blue color code for footer and header.
+- Using turquoise color code for header, footer.
+- Dark, contrasty navbar
 
-Media Queries - 
-Works properly with low resolution screens (less than 600px wide)
-A vertical navigation is required when using a mobile device.
+Media Queries 
+- Works properly with low resolution screens (less than 600px wide)
+- A vertical navigation is required when using a mobile device.
 
 Form Design
 - Verified that input fields and labels are correctly labeled.
-Clear and easy-to-follow form design.
+- Clear and easy-to-follow form design.
 
 Technologies Used
 - HTML5
@@ -41,11 +43,11 @@ Technologies Used
 Responsive Behavior - 
 For screens that are smaller than 600px:
 - Navigation becomes vertical
-Each of the contents is arranged in vertical columns.
-There may be color changing to facilitate readability.
+- Each of the contents is arranged in vertical columns.
+- There may be color changing to facilitate readability.
 
-Exercises to Maintain Project’s Resolve - 
-Ensure that you have the repo downloaded or cloned.
+Exercises to Maintain Project’s Resolve 
+1. Ensure that you have the repo downloaded or cloned.
 2. Open the folder
 4. Run `index.html` on any web browser.
 To navigate, use the menu links, as shown.
@@ -53,7 +55,7 @@ To navigate, use the menu links, as shown.
 Color Theme 
 - Header/Footer: Turquoise (`#40e0d0`)
 - Navbar: Black (`#111111`)
-The color shown here is to the left of the neutral temperature. The color displayed here is purer than the neutral temperature, although this is for easier reading.
+- Background: Light clean tone
 
 
 Author's Name: Keanu Sean G. Gabuya
