@@ -1,7 +1,7 @@
 Responsive Portfolio Website
 
-Project Overview - 
-This project is a responsive HTML5 & CSS3 portfolio website. It contains a bio page, and a contact page, and has a responsive navigation bar utilizing flex box and media queries for mobile.
+Project Overview 
+- This project is a responsive HTML5 & CSS3 portfolio website. It contains a bio page, and a contact page, and has a responsive navigation bar utilizing flex box and media queries for mobile.
 
 Pages Included
 - index.html – home/bio page (About Me and Hobbies)
