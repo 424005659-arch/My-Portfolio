@@ -5,7 +5,7 @@ This project is a responsive HTML5 & CSS3 portfolio website. It contains a bio p
 
 Pages Included
 - index.html – home/bio page (About Me and Hobbies)
-You have the following files:
+following files:
 
 Features
 
