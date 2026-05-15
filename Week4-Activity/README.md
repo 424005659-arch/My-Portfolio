@@ -5,6 +5,7 @@ Project Overview
 
 Pages Included
 - index.html – home/bio page (About Me and Hobbies)
+- contact.html – Contact page with a form
 
 Following files:
 
