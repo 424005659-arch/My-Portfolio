@@ -51,7 +51,7 @@ To navigate, use the menu links, as shown.
 Color Theme 
 - Header/Footer: Turquoise (`#40e0d0`)
 - Navbar: Black (`#111111`)
-The color shown here is to the left of the neutral temperature.The color displayed here is purer than the neutral temperature, although this is for easier reading.
+The color shown here is to the left of the neutral temperature. The color displayed here is purer than the neutral temperature, although this is for easier reading.
 
 
 Author's Name: Keanu Sean G. Gabuya
