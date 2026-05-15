@@ -11,7 +11,8 @@ Following files:
 Features
 
 Responsive Design
-- It is responsive and adapts to different device sizes and resolutions.- Responsive and scalable layout
+- It is responsive and adapts to different device sizes and resolutions.
+- Responsive and scalable layout
 - Appropriate use of media-queries for mobile-device friendliness
 
 Flexbox Navigation Bar
